@@ -1,4 +1,4 @@
-# Tornado-Project
+# Tornados!
 
 ## Group Members:
 
@@ -7,11 +7,9 @@
 - Corey Lawson-Enos
 - Rhiana Schafer
 - Ishanjit Sidhu
-## Presentation Link
-Click [here](https://docs.google.com/presentation/d/1bHTCu5uu_M8aMM8z9ZIYmS1Us2NXYOgpKhDeIHWK2Rk/mobilepresent?slide=id.p) to access the presentation.
 
 ## Description:
-In this project, we extracted data for NEXRAD Level-3 Radar identifying Tornado Vortex Signatures from the last 2 months from www.ncdc.noaa.gov. After cleaning, we stored the data in MongoDB and used a Python Flask API to power a web application (See file app.py). We then created several visualizations using Leaflet and Plotly that allow you to interact with the data set.
+Extracted NEXRAD Level-3 Radar data identifying Tornado Vortex Signatures from the last two months (source NOAA: www.ncdc.noaa.gov.) Cleaned and organized in Pandas, tornado cell activity data is subsequently launched to MongoDB for storage. Python Flask API powers web application for dynamic interaction with tornado data (see file app.py). Visualizations created using Leaflet and Plotly.
 
 ![methods](imgs/methods.png)
 
