@@ -1,4 +1,4 @@
-# Tornado-Project
+# Tornados!
 
 ## Group Members:
 
